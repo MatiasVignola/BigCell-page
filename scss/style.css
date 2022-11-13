@@ -1,1 +1,13 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.carousel h5, p {
+  color: white;
+}
+
+.card p, h1 {
+  color: black;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
