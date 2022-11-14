@@ -1,0 +1,9 @@
+* {
+  margin: 0rem;
+  padding: 0;
+}
+
+.row {
+  justify-content: space-between;
+  align-items: center;
+}/*# sourceMappingURL=productos.css.map */
